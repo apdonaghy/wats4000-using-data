@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <h1>Datamuse API Calls</h1>
+    <!-- <h1>Wine Searcher</h1> -->
     <div id="nav">
-      <router-link to="/">Rhymes</router-link> |
+      <router-link to="/">Home</router-link> |
       <router-link to="/adjective">Adjectives</router-link>
     </div>
     <router-view/>

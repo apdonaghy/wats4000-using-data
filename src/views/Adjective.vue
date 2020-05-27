@@ -1,5 +1,5 @@
 <template>
-  <div class="rhymesaurus">
+  <div class="home">
   <form v-on:submit.prevent="findWords">
       <p>Adjectives that are often used to describe<input type="text" v-model="adjective"><button type="submit">Search</button></p>
     </form>
